@@ -1,0 +1,59 @@
+.j-gone{
+  display: none;
+}
+
+.o-gone{
+  display: none;
+}
+
+.v-gone{
+  display: none;
+}
+
+.vn-gone{
+  display: none;
+}
+
+.f-gone{
+  display: none;
+}
+
+.m-gone{
+  display: none;
+}
+
+.well {
+  margin-left: 8%;
+  width:75%;
+  text-align: center;
+  background-color: #e6fefa;
+  box-shadow: 10px 10px 5px 0px grey;
+}
+
+.flashcards {
+  text-align: center;
+}
+
+.style {
+  background-color: black;
+}
+
+.col-md-4{
+  border: solid maroon 5px;
+  background-color: beige;
+  border-radius: 10px;
+  width: 30%;
+  height: 240px;
+  box-shadow: 10px 10px 5px 0px grey;
+}
+.backgroundnew {
+  background-color: pink;
+  border: solid red 5px;
+  border-radius: 10px;
+  width: 30%;
+  height: 240px;
+  box-shadow: 10px 10px 5px 0px grey;
+}
+body{
+  background-color: lightblue;
+}
